@@ -90,6 +90,4 @@ We welcome contributions! If you have any ideas or suggestions, feel free to ope
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to add or modify the README based on the features and functionalities of your project!
